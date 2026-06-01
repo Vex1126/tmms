@@ -1,0 +1,14 @@
+{
+	"InstallScripts" : 
+	[
+		"/home/yjt/tmms/build/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/main/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/base/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/network/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/network/net/tests/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/mmedia/cmake_install.cmake",
+		"/home/yjt/tmms/build/src/mmedia/tests/cmake_install.cmake"
+	],
+	"Parallel" : false
+}

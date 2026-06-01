@@ -1,0 +1,2 @@
+/home/yjt/tmms/build/../bin/sbin/tmms
+/home/yjt/tmms/build/../bin/sbin/tmms

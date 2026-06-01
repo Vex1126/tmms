@@ -1,0 +1,3 @@
+2025-11-29T18-35-17 11982 INFO[main.cpp:29]Logger initialized successfully
+2025-11-29T18-35-17 11982 DEBUG[main.cpp:30][main]Log level: 1, Log file: ../log/tmms.log
+2025-11-29T18-35-17 11982 INFO[main.cpp:31]Application started

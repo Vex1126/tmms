@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/yjt/tmms/build/CMakeFiles/json"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/CMakeFiles/json.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/CMakeFiles/json-complete.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-build.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-configure.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-download.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-install.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-mkdir.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-patch.rule"
+		},
+		{
+			"file" : "/home/yjt/tmms/build/json-prefix/src/json-stamp/json-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"json"
+		],
+		"name" : "json"
+	}
+}

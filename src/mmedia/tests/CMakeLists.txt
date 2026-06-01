@@ -1,0 +1,7 @@
+add_executable(RtmpHandShakeServerText RtmpHandShakeServerText.cpp)
+target_link_libraries(RtmpHandShakeServerText network base mmedia crypto)
+target_compile_definitions(RtmpHandShakeServerText PRIVATE RTMP_DEBUG_ON)
+
+add_executable(RtmpHandShakeClientText RtmpHandShakeClientText.cpp)
+target_link_libraries(RtmpHandShakeClientText network base mmedia crypto)
+target_compile_definitions(RtmpHandShakeClientText PRIVATE RTMP_DEBUG_ON)
